@@ -1,0 +1,14 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_99776EFF_957E_12AB_41DB_572DCF2A5D22.label = ENTRADA VINHO 
+panorama_9F90817F_957E_0FAA_41CA_853A8D57838D.label = LOJA INTERNA 
+
+## Tour
+
+### Description
+
+### Title
+tour.name = VINHO ROSSI 
